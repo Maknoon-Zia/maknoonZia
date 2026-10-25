@@ -80,6 +80,17 @@ const projects = [
     codeUrl: 'https://colab.research.google.com/drive/1_dmTjYuzj98tzH5MADAIzRv7D43EyLqI?usp=sharing',
     codeLabel: 'Notebook',
   },
+  {
+    title: 'NEXUS — Next-Gen AI Summit',
+    category: 'web',
+    categoryLabel: 'Web · UI',
+    description:
+      'Responsive landing page for a next-generation AI summit, built with Bootstrap and custom CSS to deliver a modern event-focused design across desktop, tablet, and mobile screens.',
+    tags: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap'],
+    liveUrl: 'https://nexus-next-gen-ai-summit.vercel.app/',
+    codeUrl: 'https://github.com/Maknoon-Zia/NEXUS-next-gen-ai-summit',
+    codeLabel: 'Code',
+  },
 ];
 
 export default projects;
